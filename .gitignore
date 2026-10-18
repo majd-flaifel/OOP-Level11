@@ -1,0 +1,61 @@
+
+# =========================
+# Visual Studio
+# =========================
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+*.VC.VC.opendb
+
+# =========================
+# Build Folders
+# =========================
+Debug/
+Release/
+x64/
+x86/
+build/
+out/
+cmake-build-*/
+
+# =========================
+# C++ Compiled Files
+# =========================
+*.exe
+*.obj
+*.o
+*.out
+*.pdb
+*.ilk
+*.idb
+*.pch
+*.ipch
+*.tlog
+*.lastbuildstate
+*.log
+
+# =========================
+# Temporary Files
+# =========================
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+
+# =========================
+# Operating System
+# =========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# =========================
+# VS Code (if used)
+# =========================
+.vscode/
